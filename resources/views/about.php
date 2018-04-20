@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Acerca de nosotros!
+                    HOLI!
                 </div>
 
                 <div class="links">
