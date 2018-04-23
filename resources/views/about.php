@@ -41,6 +41,8 @@
                 top: 18px;
             }
 
+            
+
             .content {
                 text-align: center;
             }
